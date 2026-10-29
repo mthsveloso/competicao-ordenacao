@@ -1,0 +1,4 @@
+*.o
+ordenacao
+*.txt
+!saida_terminal.txt
